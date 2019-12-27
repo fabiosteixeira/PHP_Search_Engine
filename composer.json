@@ -1,4 +1,14 @@
 {
+    "name": "fabiosteixeira/php_search_engine",
+    "description": "Máquina de busca PHP para a materia da PosDevWEB",
+    "authors": [
+        {
+            "name": "Fábio Teixeira",
+            "email": "fabio@fabio.vet.br"
+        }
+    ],
+    "type": "project",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "App\\": "src"
